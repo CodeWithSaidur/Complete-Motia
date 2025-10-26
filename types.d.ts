@@ -12,6 +12,6 @@ declare module 'motia' {
   }
 
   interface Handlers {
-    
+    'CreateYT': ApiRouteHandler<{ channel: string; email: string }, unknown, never>
   }
 }

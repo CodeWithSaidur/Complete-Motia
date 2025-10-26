@@ -1,0 +1,11 @@
+[
+  {
+    "id": "YTManagement",
+    "config": {
+      "steps\\01-submit.step.ts": {
+        "x": -356,
+        "y": 16
+      }
+    }
+  }
+]
